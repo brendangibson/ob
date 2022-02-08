@@ -4,6 +4,6 @@
 	"logoDark": "/assets/outerbounds.svg",
 	"navigation": [
 		["Why Metaflow?", "/why"],
-		["Fake Documentation", "/fak"]
+		["Fake Documentation", "/fake"]
 	]
 }
