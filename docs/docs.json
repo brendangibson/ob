@@ -1,9 +1,9 @@
 {
 	"name": "Outerbounds Documentation",
-	"logo": "assets/outerbounds.svg",
-	"logoDark": "assets/outerbounds.svg",
+	"logo": "/assets/outerbounds.svg",
+	"logoDark": "/assets/outerbounds.svg",
 	"navigation": [
-		["Why Metaflow?", "/why.mdx"],
-		["Fake Documentation", "/fake.md"]
+		["Why Metaflow?", "/why"],
+		["Fake Documentation", "/fak"]
 	]
 }
