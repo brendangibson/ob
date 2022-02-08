@@ -1,9 +1,0 @@
-{
-	"name": "Outerbounds Documentation",
-	"logo": "/assets/outerbounds.svg",
-	"logoDark": "/assets/outerbounds.svg",
-	"sidebar": [
-		["Why Metaflow?", "/why"],
-		["Fake Documentation", "/fake"]
-	]
-}
